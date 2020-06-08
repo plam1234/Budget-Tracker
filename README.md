@@ -1,2 +1,3 @@
-# budget-tracker
-PWA Budget Tracking App
+# Progressive budget tracker
+
+Budget Tracking App
